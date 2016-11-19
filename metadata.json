@@ -2,7 +2,7 @@
   "name": "eyp-opendkim",
   "version": "0.1.0",
   "author": "eyp",
-  "summary": "OpenDKIM management",
+  "summary": "OpenDKIM managements",
   "license": "Apache-2.0",
   "source": "https://github.com/NTTCom-MS/eyp-opendkim",
   "project_page": null,
